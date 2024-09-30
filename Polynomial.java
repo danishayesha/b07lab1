@@ -340,4 +340,4 @@ public class Polynomial {
 		paper.close();
 		
 	}
-}
+};
