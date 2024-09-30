@@ -1,5 +1,3 @@
-package b07lab1;
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileWriter;
